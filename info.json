@@ -1,11 +1,11 @@
 {
-  "name": "Mining_Drones",
-  "version": "1.1.10",
-  "title": "Mining Drones",
-  "author": "Klonan",
+  "name": "Mining_Drones_Rebalanced",
+  "version": "1.0",
+  "title": "Mining Drones Rebalanced",
+  "author": "Keskas",
   "contact": "",
   "homepage": "",
-  "description": "Adds mining drones and mining depots",
+  "description": "Attempts to rebalance Klonan's mining drones, as myself and others saw them as slightly cheaty.",
   "dependencies": ["base >= 1.1.0", "(?)DirtyMining"],
   "factorio_version": "1.1"
 }
