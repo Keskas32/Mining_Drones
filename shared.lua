@@ -4,7 +4,7 @@ local data = {}
 
 data.drone_name = "mining-drone"
 data.proxy_chest_name = "mining-drone-proxy-chest"
-data.mining_damage = 5
+data.mining_damage = 3
 data.mining_interval = math.floor(26 * 1.5) --dictated by character mining animation
 data.attack_proxy_name = "mining-drone-attack-proxy-new"
 data.mining_depot = "mining-depot"
@@ -21,7 +21,7 @@ data.depots =
   ["mining-depot"] =
   {
     radius = 25 + 0.5,
-    capacity = 100,
+    capacity = 5,
     drop_offset = {0, -3.5},
     shifts =
     {
